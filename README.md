@@ -1,10 +1,7 @@
 # fa24-semesterproject-breadwinners
 fa24-semesterproject-breadwinners created by GitHub Classroom
 
-
-Saianudeep Matta
-
-Shaker Ahmed
+Shaker Ahmed ([sa.shakerahmed@gmail.com](mailto:sa.shakerahmed@gmail.com))
 
 Christopher Shen
 
